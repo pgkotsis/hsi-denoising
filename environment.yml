@@ -1,0 +1,21 @@
+name: hsi
+channels:
+- pytorch
+- nvidia
+- conda-forge
+- defaults
+dependencies:
+- python=3.12
+- jupyter
+- nb_conda
+- numpy
+- pyyaml
+- mkl
+- setuptools
+- cmake
+- cffi
+- matplotlib
+- scikit-image
+- pytorch=2.5
+- torchvision
+- pytorch-cuda
