@@ -1,7 +1,7 @@
 # hsi-denoising
 Hyperspectral Image Denoising using Deep Image Prior
 
-This code is built upon the one used for the original [Deep Hyperspectral Prior]{https://github.com/acecreamu/deep-hs-prior} and [Deep Image Prior]{https://github.com/DmitryUlyanov/deep-image-prior} papers.
+This code is built upon the one used for the original [Deep Hyperspectral Prior](https://github.com/acecreamu/deep-hs-prior) and [Deep Image Prior](https://github.com/DmitryUlyanov/deep-image-prior) papers.
 
 You can use the code by installing the necessary dependencies found in the `environment.yml` file.
 
