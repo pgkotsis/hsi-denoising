@@ -5,6 +5,6 @@ This code is built upon the one used for the original [Deep Hyperspectral Prior]
 
 You can use the code by installing the necessary dependencies found in the `environment.yml` file.
 
-Several hyperspectral images have been preprocessed and are provided as `.mat` files, along with some preprocessing scripts.
+Several hyperspectral images have been preprocessed as `.mat` files. They are not provided due to size limitations, but you can find the preprocessing scripts in the `data` directory. The original hyperspectral datasets are available online.
 
 You can use the denoising notebooks to select the input image, add synthetic noise of your choosing, modify any parameters, carry out denoising, and view your results.
